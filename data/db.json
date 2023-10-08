@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "My third blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "DevOps fundamentals",
+      "body": "DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
