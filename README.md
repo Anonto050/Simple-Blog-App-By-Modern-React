@@ -1,6 +1,6 @@
 # Simple-Blog-App-By-Modern-React
 
-![App Screenshot](screenshot.png)
+![App Screenshot](public/blog-app.png)
 
 A minimalistic blog app built using modern React and React Router, allowing users to create and view blog posts.
 
